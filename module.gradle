@@ -1,0 +1,9 @@
+ext {
+    moduleLibraryName = "vxteamplugin"
+    magiskModuleId = "vx_teamplugin"
+    moduleName = "Vx Team Plugin"
+    moduleAuthor = "Vitor-VX"
+    moduleDescription = "Vx - Menu Inject Seven Knights Idle Adventure"
+    moduleVersion = "v1.1"
+    moduleVersionCode = 1
+}
